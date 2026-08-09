@@ -6,14 +6,14 @@ I am currently exploring the world of backend development.
 This is my main profile where I work on my personal and hackathon projects.
 
 ## Tools & Tech
--> HTML, CSS, JavaScript
--> React, FastAPI, SQLAlchemy
--> C++, Python
+-> HTML, CSS, JavaScript<br>
+-> React, FastAPI, SQLAlchemy<br>
+-> C++, Python<br>
 -> Data Structures and Algorithms, OOPs, DBMS
 
 ## A Bit About Me
--> Into Football and Cricket
--> Passionate FC (f.k.a FIFA) video gamer
+-> Into Football and Cricket<br>
+-> Passionate FC (f.k.a FIFA) video gamer<br>
 -> Into building things that are easy and simple to understand while being useful on a daily basis
 
 <!--
