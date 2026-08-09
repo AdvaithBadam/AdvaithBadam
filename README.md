@@ -3,7 +3,7 @@ I'm Advaith, aspiring to be a software developer.
 
 I am currently exploring the world of backend development.
 
-This is my main profile where I work on my personal and hackathon projects.
+This is where I work on my personal and hackathon projects.
 
 ## Tools & Tech
 -> HTML, CSS, JavaScript<br>
