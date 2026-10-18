@@ -1,7 +1,7 @@
 ## Hey there 👋
 I'm Advaith, aspiring to be a software developer.
 
-I am currently exploring the world of backend development.
+I am currently exploring the world of backend development. I am eager to learn about AI/ML.
 
 This is where I work on my personal and hackathon projects.
 
